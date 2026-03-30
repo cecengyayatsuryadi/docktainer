@@ -1,0 +1,2 @@
+#!/bin/bash
+cd /home/lilletboy/Documents/github/docktainer && npx ts-node index.tsx
